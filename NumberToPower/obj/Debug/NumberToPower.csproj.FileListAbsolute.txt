@@ -1,0 +1,6 @@
+/Users/seda/Projects/NumberToPower/NumberToPower/obj/Debug/NumberToPower.csprojAssemblyReference.cache
+/Users/seda/Projects/NumberToPower/NumberToPower/obj/Debug/NumberToPower.csproj.CoreCompileInputs.cache
+/Users/seda/Projects/NumberToPower/NumberToPower/bin/Debug/NumberToPower.exe
+/Users/seda/Projects/NumberToPower/NumberToPower/bin/Debug/NumberToPower.pdb
+/Users/seda/Projects/NumberToPower/NumberToPower/obj/Debug/NumberToPower.exe
+/Users/seda/Projects/NumberToPower/NumberToPower/obj/Debug/NumberToPower.pdb
